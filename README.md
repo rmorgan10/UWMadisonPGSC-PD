@@ -165,6 +165,8 @@ You'll improve your research efficiency by being able to interpret the motivatio
 
 __Speaker:__ Alex Pizzuto
 
+[View the slides for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/blob/master/Meetings/Meeting_7/PaperReading.pdf)
+
 ---
 
 ### Session 8: Vroom Vroom How to Make Your Code Fast
@@ -175,6 +177,8 @@ __Overview:__ Knowing how to write efficient code can make your life much easier
 We'll discuss what makes code slow, how to profile your code, parallelization, and modules for speeding up your workflow.
 
 __Speaker:__ Rob Morgan
+
+[View the materials for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/blob/master/Meetings/Meeting_8/VroomVroom.ipynb)
 
 ---
 
