@@ -1,6 +1,6 @@
 # Spring 2020 Schedule
 
-Meeting Times: Every other Thrusday, 2:30-3:30
+Meeting Times: Every other Friday, 2:30-3:30
 
 [View an overview of the seminar series and list of topics here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/blob/master/Meetings/Meeting_1/Overview.pdf) 
 
@@ -11,41 +11,18 @@ Meeting Times: Every other Thrusday, 2:30-3:30
 
 ---
 
-### Session 8: Vroom Vroom How to Make Your Code Fast
-
-__When and Where__: March 6, 2020; 2:30-3:30; Room 5280, Chamberlin Hall
-
-__Overview:__ Knowing how to write efficient code can make your life much easier, but also will make you a more attractive job candidate.
-We'll discuss what makes code slow, how to profile your code, parallelization, and modules for speeding up your workflow.
-
-__Speaker:__ Rob Morgan
-
----
-
-
 ### Session 9: Tell Me About Your Research!
 
-__When and Where:__ March 19, 2020; 2:30-3:30; Room 5310, Chamberlin Hall
+__When and Where:__ April 3, 2020; 2:30-3:30; Room 5310, Chamberlin Hall
 
 __Overview:__ We'll discuss the most successful ways of communicating your research to non-expert and non-science audiences.
 Learn tips and tricks for presenting what you do to anyone in the world.
 
 __Speakers:__ Sarah Perdue and Madeleine O'Keefe
 
----
-
-### Session 10: Version Control: How to Git Good
-
-__When and Where:__ April 2, 2020; 2:30-3:30; Room 5310, Chamberlin Hall
-
-__Overview__: Version control is a great method for documenting your progress while avoiding mistakes and backing up your work.
-We'll focus mainly on `git`, and you'll learn the essentials for maintaining code repositories, tracking changes in papers, and more all while avoiding the dense and scary stuff.
-
-__Speaker:__ Rob Morgan
-
 ___
 
-### Session 11: LinkedIn
+### Session 10: LinkedIn
 
 __When and Where:__ TBD
 
@@ -57,15 +34,26 @@ __Speaker:__ Michelle Holland and Career Services
 
 ---
 
-### Session 12: Okay, Google: Help Me with My Resume
+### Session 11: Okay, Google: Help Me with My Resume
 
-__When and Where:__ TBD
+__When and Where:__ April 30, 2020; 2:30-3:30; Room 5280, Chamberlin Hall
 
 __Overview:__ Crafting an attractive resume is a skill that takes practice to develop, but the process becomes much easier once you know what search committees are looking for. 
 Sharing his experience screening Google applicants, Homer Wolfmeister will overview the components of a strong resume for typical industry careers. 
 He will also lead a resume review excercise where you will become the reviewer, and learn to craft the perfect resume by critically analyzing sample resumes.
 
 __Speaker:__ Homer Wolfmeister
+
+---
+
+### Session 12: Version Control: How to Git Good
+
+__When and Where:__ TBD, 2020; 2:30-3:30; Room 5280, Chamberlin Hall
+
+__Overview__: Version control is a great method for documenting your progress while avoiding mistakes and backing up your work.
+We'll focus mainly on `git`, and you'll learn the essentials for maintaining code repositories, tracking changes in papers, and more all while avoiding the dense and scary stuff.
+
+__Speaker:__ Greg Holdman
 
 ---
 
@@ -176,4 +164,18 @@ I'll cover strategies for approaching articles geared towards overcoming these b
 You'll improve your research efficiency by being able to interpret the motivations, methods, results, and implications of an article after a 5-minute read.
 
 __Speaker:__ Alex Pizzuto
+
+---
+
+### Session 8: Vroom Vroom How to Make Your Code Fast
+
+__When and Where__: March 6, 2020; 2:30-3:30; Room 5280, Chamberlin Hall
+
+__Overview:__ Knowing how to write efficient code can make your life much easier, but also will make you a more attractive job candidate.
+We'll discuss what makes code slow, how to profile your code, parallelization, and modules for speeding up your workflow.
+
+__Speaker:__ Rob Morgan
+
+---
+
 
