@@ -13,7 +13,7 @@ Meeting Times: Every other Friday, 2:30-3:30
 
 ### Session 9: Tell Me About Your Research!
 
-__When and Where:__ April 3, 2020; 2:30-3:30; Room 5310, Chamberlin Hall
+__When and Where:__ TBD
 
 __Overview:__ We'll discuss the most successful ways of communicating your research to non-expert and non-science audiences.
 Learn tips and tricks for presenting what you do to anyone in the world.
@@ -48,7 +48,7 @@ __Speaker:__ Homer Wolfmeister
 
 ### Session 12: Version Control: How to Git Good
 
-__When and Where:__ TBD, 2020; 2:30-3:30; Room 5280, Chamberlin Hall
+__When and Where:__ TBD
 
 __Overview__: Version control is a great method for documenting your progress while avoiding mistakes and backing up your work.
 We'll focus mainly on `git`, and you'll learn the essentials for maintaining code repositories, tracking changes in papers, and more all while avoiding the dense and scary stuff.
