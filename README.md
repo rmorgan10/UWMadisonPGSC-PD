@@ -8,10 +8,19 @@ Meeting Times: Every other Friday, 2:30-3:30
 
 ## Upcoming Events
 
+### Session 9: Version Control: How to Git Good
+
+__When and Where:__ April 11, 2020; 2:30-3:30, REMOTE
+
+__Overview__: Version control is a great method for documenting your progress while avoiding mistakes and backing up your work.
+We'll focus mainly on `git`, and you'll learn the essentials for maintaining code repositories, tracking changes in papers, and more all while avoiding the dense and scary stuff.
+
+__Speaker:__ Greg Holdman
 
 ---
 
-### Session 9: Tell Me About Your Research!
+
+### Session 10: Tell Me About Your Research!
 
 __When and Where:__ TBD
 
@@ -22,7 +31,7 @@ __Speakers:__ Sarah Perdue and Madeleine O'Keefe
 
 ___
 
-### Session 10: LinkedIn
+### Session 11: LinkedIn
 
 __When and Where:__ TBD
 
@@ -34,7 +43,7 @@ __Speaker:__ Michelle Holland and Career Services
 
 ---
 
-### Session 11: Okay, Google: Help Me with My Resume
+### Session 12: Okay, Google: Help Me with My Resume
 
 __When and Where:__ April 30, 2020; 2:30-3:30; Room 5280, Chamberlin Hall
 
@@ -46,20 +55,9 @@ __Speaker:__ Homer Wolfmeister
 
 ---
 
-### Session 12: Version Control: How to Git Good
-
-__When and Where:__ TBD
-
-__Overview__: Version control is a great method for documenting your progress while avoiding mistakes and backing up your work.
-We'll focus mainly on `git`, and you'll learn the essentials for maintaining code repositories, tracking changes in papers, and more all while avoiding the dense and scary stuff.
-
-__Speaker:__ Greg Holdman
-
----
-
 ### Backup: Professional Websites REMIX
 
-__When and Where:__ (If time permits)
+__When and Where:__ TBD
 
 __Overview:__ Professional websites are a great way to promote yourself and your work.
 We will go through a step-by-step walkthrough of how to create your own free, easy to maintain website to make your research available to the world.
