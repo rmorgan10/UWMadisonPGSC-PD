@@ -10,7 +10,7 @@ Meeting Times: Every other Friday, 2:30-3:30
 
 ### Session 9: Version Control: How to Git Good
 
-__When and Where:__ April 11, 2020; 2:30-3:30; REMOTE
+__When and Where:__ April 10, 2020; 11:00am-12:00pm; REMOTE
 
 __Overview__: Version control is a great method for documenting your progress while avoiding mistakes and backing up your work.
 We'll focus mainly on `git`, and you'll learn the essentials for maintaining code repositories, tracking changes in papers, and more all while avoiding the dense and scary stuff.
@@ -45,7 +45,7 @@ __Speaker:__ Michelle Holland and Career Services
 
 ### Session 12: Okay, Google: Help Me with My Resume
 
-__When and Where:__ April 30, 2020; 2:30-3:30; Room 5280, Chamberlin Hall
+__When and Where:__ April 30, 2020; 2:30pm-3:30pm; Room 5280, Chamberlin Hall
 
 __Overview:__ Crafting an attractive resume is a skill that takes practice to develop, but the process becomes much easier once you know what search committees are looking for. 
 Sharing his experience screening Google applicants, Homer Wolfmeister will overview the components of a strong resume for typical industry careers. 
@@ -71,7 +71,7 @@ __Prerequisites:__ Make an account on [GitHub](https://github.com/) before the s
 
 ### Session 1: Learn to Build Your Own Website
 
-__When and Where:__ September 19, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
+__When and Where:__ September 19, 2019; 2:30pm-3:30pm; Room 5310, Chamberlin Hall
 
 __Overview:__ The first PGSC Professional Development Session! We will briefly outline the topics for the semester.
 There will be a step-by-step walkthrough to create a free, easy-to-use personal website. 
@@ -85,7 +85,7 @@ __Prerequisites:__ Make an account on [GitHub](https://github.com/) before the s
 
 ### Session 2: Where Physics Ph.D.s Work and How to Get There
 
-__When and Where:__ October 10, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
+__When and Where:__ October 10, 2019; 2:30pm-3:30pm; Room 5310, Chamberlin Hall
 
 __Overview:__ We will take a data-driven look at the job landscape for graduating physics Ph.D.s.
 The talk will discuss positions in academia, at national laboratories, and in the private sector.
@@ -97,7 +97,7 @@ We will also discuss the typical skill set and track record of people in those p
 
 ### Session 3: Your Resume: From Good to Great
 
-__When and Where:__ October 17, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
+__When and Where:__ October 17, 2019; 2:30pm-3:30pm; Room 5310, Chamberlin Hall
 
 __Overview:__ In this workshop we will begin with the basics and talk through strategies and steps to create a winning resume. 
 Good resume’s don’t get you jobs but great ones do! 
@@ -112,7 +112,7 @@ Feel free to bring any resume related questions to the workshop.
 
 ### Session 4: Professional Headshots
 
-__When and Where:__ October 30, 2019; 3:20-5:20; Room 2116, Chamberlin Hall
+__When and Where:__ October 30, 2019; 3:20pm-5:20pm; Room 2116, Chamberlin Hall
 
 __Overview:__ Free professional headshots for all graduate students!
 
@@ -120,7 +120,7 @@ __Overview:__ Free professional headshots for all graduate students!
 
 ### Session 5: Faculty and Postdoc Career Advice Panel
 
-__When and Where:__ November 13, 2019; 2:30-3:30; Room B343, Sterling Hall
+__When and Where:__ November 13, 2019; 2:30pm-3:30pm; Room B343, Sterling Hall
 
 __Overview:__ Faculty and postdocs in the department will share their experiences and answer your questions.
 Ask the experts how they navigated the academic job landscape! 
@@ -132,7 +132,7 @@ __Panel Members:__ Lisa Everett, Kim Palladino, Shimon Kolkowitz, Lars Aalsma, R
 
 ### Session 6: Physicists at Google
 
-__When and Where:__ December 5, 2019; 2:30-3:30; Room 5310, Chamberlin Hall
+__When and Where:__ December 5, 2019; 2:30pm-3:30pm; Room 5310, Chamberlin Hall
 
 __RSVP:__ [Fill in this form for some free Google merch](https://goo.gle/2WKWL2j)
 
@@ -154,7 +154,7 @@ His experience in research physics was beneficial for all these positions.
 
 ### Session 7: How to Get the Most out of Academic Articles
 
-__When and Where:__ February 21, 2020; 2:30-3:30; Room 5280, Chamberlin Hall
+__When and Where:__ February 21, 2020; 2:30pm-3:30pm; Room 5280, Chamberlin Hall
 
 __Overview:__ Getting all the information out of a dense academic article is a challenge no matter what point you're at in your physics career.
 Even if you're reading a paper very close to your field, language, figures, and presentation style can act as barriers to understanding the take-home message of the work.
@@ -169,7 +169,7 @@ __Speaker:__ Alex Pizzuto
 
 ### Session 8: Vroom Vroom How to Make Your Code Fast
 
-__When and Where__: March 6, 2020; 2:30-3:30; Room 5280, Chamberlin Hall
+__When and Where__: March 6, 2020; 2:30pm-3:30pm; Room 5280, Chamberlin Hall
 
 __Overview:__ Knowing how to write efficient code can make your life much easier, but also will make you a more attractive job candidate.
 We'll discuss what makes code slow, how to profile your code, parallelization, and modules for speeding up your workflow.
