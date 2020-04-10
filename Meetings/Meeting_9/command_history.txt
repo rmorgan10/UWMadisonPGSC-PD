@@ -1,0 +1,110 @@
+Slide 6
+  692  pwd
+  693  git init
+  694  ls
+  695  ls -a
+  696  ls .git
+Slide 7
+  697  git status
+  698  touch README.md
+  699  ls
+  700  ls -a
+  701  git status
+Slide 8
+  702  git add README.md
+Slide 9
+  703  git status
+  704  git commit
+Slide 10
+  706  git status
+  707  cat README.md
+  708  nano README.md # Made changes to file
+  709  cat README.md 
+  710  ls -a
+  711  git status
+  712  git diff
+  713  git add README.md 
+  714  git commit -m "Add a description to the README."
+Slide 11
+  715  git log
+Slide 12
+  716  nano README.md # Made changes to file
+  717  git status
+  718  git diff
+  719  git restore README.md
+  720  nano README.md # Changes no longer there
+Slide 14
+  721  git status
+  722  git log
+  723  git branch
+  724  git branch develop
+Slide 15
+  725  git switch develop
+  726  git log
+  727  touch fastcode.py
+  728  ls
+  729  git status
+  730  git add fastcode.py 
+  731  git commit -m "Add a python file"
+  732  git log
+  733  git switch master
+Slide 16
+  734  ls
+  735  git merge develop
+Slide 17
+  736  git status
+  737  ls
+  738  git switch develop
+  739  nano fastcode.py # Made changes to file on develop
+  740  git status
+  741  git add fastcode.py 
+  742  git commit -m "Add code to python file."
+  743  git switch master
+  744  nano README.md # Made changes to file on README
+  745  git status
+  746  git add README.md 
+  747  git commit -m "Add information to README."
+  748  git status
+  749  git merge develop
+  750  ls
+  751  cat fastcode.py 
+  752  git log
+  753  git log --graph --oneline
+Slide 18
+  754  git status
+  755  git switch develop
+  756  nano fastcode.py
+  757  git status
+  758  git add fastcode.py 
+  759  git commit -m "Improve code speed"
+  760  git rebase master
+  761  git log --oneline --graph
+Slide 20 (On remote computer)
+	git init --bare
+Slide 21
+  762  git remote add origin example@brar-server.physics.wisc.edu:Repositories/project
+Slide 22
+  763  git switch master
+  764  git push --set-upstream origin master
+Slide 23 (On remote computer)
+	git clone ~/Repositories/project
+Slide 24
+  765  git pull # <<< Don't use this!!!
+  766  git fetch
+  767  git log
+  768  git log --all --graph --oneline
+  769  git merge
+  770  git log --all --oneline --graph
+  771  git commit --help
+  772  pwd
+What are .gitignore files?
+  773  clear
+  774  git status
+  775  touch simulation.log
+  776  ls
+  777  git status
+  778  nano .gitignore
+  779  git status
+  780  git add .gitignore 
+  781  git commit -m "Ignore log files"
+
