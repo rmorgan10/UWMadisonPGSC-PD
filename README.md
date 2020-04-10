@@ -17,6 +17,8 @@ We'll focus mainly on `git`, and you'll learn the essentials for maintaining cod
 
 __Speaker:__ Greg Holdman
 
+[View the materials for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/tree/master/Meetings/Meeting_9)
+
 ---
 
 
