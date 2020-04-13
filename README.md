@@ -47,7 +47,7 @@ __Speaker:__ Michelle Holland and Career Services
 
 ### Session 12: Okay, Google: Help Me with My Resume
 
-__When and Where:__ April 30, 2020; 2:30pm-3:30pm; Room 5280, Chamberlin Hall
+__When and Where:__ TBD
 
 __Overview:__ Crafting an attractive resume is a skill that takes practice to develop, but the process becomes much easier once you know what search committees are looking for. 
 Sharing his experience screening Google applicants, Homer Wolfmeister will overview the components of a strong resume for typical industry careers. 
