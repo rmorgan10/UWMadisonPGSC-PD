@@ -1,6 +1,6 @@
-# Spring 2020 Schedule
+# Fall 2020 Schedule
 
-Meeting Times: Every other Friday, 2:30-3:30
+Meeting Times: Every other Tuesday, 2:30-3:30
 
 [View an overview of the seminar series and list of topics here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/blob/master/Meetings/Meeting_1/Overview.pdf) 
 
@@ -8,23 +8,32 @@ Meeting Times: Every other Friday, 2:30-3:30
 
 ## Upcoming Events
 
-### Session 9: Version Control: How to Git Good
+### Session 10: Grants and Proposals
 
-__When and Where:__ April 10, 2020; 11:00am-12:00pm; REMOTE
+__When and Where:__ September 22, 2020; 2:30pm-3:30pm; Zoom
 
-__Overview__: Version control is a great method for documenting your progress while avoiding mistakes and backing up your work.
-We'll focus mainly on `git`, and you'll learn the essentials for maintaining code repositories, tracking changes in papers, and more all while avoiding the dense and scary stuff.
+__Overview:__ Tips and tricks for writing successful grants and proposals.
+The Writing Center will give a short presentation on the components of and strategies for grant and proposal writing.
+Afterward, we will have a physics-specific discussion with professors in the departement to tailor the tips to the specific funding agencies you may deal with.
 
-__Speaker:__ Greg Holdman
+__Speakers:__ TBD (from the UW Writing Center), TBD, TBD, TBD
 
-[View the materials for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/tree/master/Meetings/Meeting_9)
+
+### Session 11: LinkedIn
+
+__When and Where:__ October 6, 2020; 2:30pm-3:30pm; Zoom
+
+__Overview:__ Learn how to get started with LinkedIn and how to make your page stand out.
+You'll also learn how to use networking and job search features of LinkedIn.
+This seminar will be brought to you by the Career Services Department.
+
+__Speaker:__ Michelle Holland
 
 ---
 
+### Session 12: Tell Me About Your Research!
 
-### Session 10: Tell Me About Your Research!
-
-__When and Where:__ TBD
+__When and Where:__ October 20, 2020; 2:30pm-3:30pm; Zoom
 
 __Overview:__ We'll discuss the most successful ways of communicating your research to non-expert and non-science audiences.
 Learn tips and tricks for presenting what you do to anyone in the world.
@@ -33,21 +42,20 @@ __Speakers:__ Sarah Perdue and Madeleine O'Keefe
 
 ___
 
-### Session 11: LinkedIn
+### Session 13: How to Go from Physics to Industry
 
-__When and Where:__ TBD
+__When and Where:__ November 19, 2020; 2:30pm-3:30pm; Zoom
 
-__Overview:__ Learn how to get started with LinkedIn and how to make your page stand out.
-You'll also learn how to use networking and job search features of LinkedIn.
-This seminar will be brought to you by the Career Services Department.
+__Overview:__ A panel of recent UW-Madison Physics alumni will answer all your questions about deciding if industry is the right path for you.
+We'll also discuss tips and tricks for landing an industry job.
 
-__Speaker:__ Michelle Holland and Career Services
+__Speakers:__ Adam Frees, Matthew Beck
 
----
+___
 
-### Session 12: Okay, Google: Help Me with My Resume
+### Session 14: Okay, Google: Help Me with My Resume
 
-__When and Where:__ TBD
+__When and Where:__ December 1, 2020; 2:30pm-3:30pm; Zoom
 
 __Overview:__ Crafting an attractive resume is a skill that takes practice to develop, but the process becomes much easier once you know what search committees are looking for. 
 Sharing his experience screening Google applicants, Homer Wolfmeister will overview the components of a strong resume for typical industry careers. 
@@ -179,6 +187,19 @@ We'll discuss what makes code slow, how to profile your code, parallelization, a
 __Speaker:__ Rob Morgan
 
 [View the materials for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/blob/master/Meetings/Meeting_8/VroomVroom.ipynb)
+
+---
+
+### Session 9: Version Control: How to Git Good
+
+__When and Where:__ April 10, 2020; 11:00am-12:00pm; REMOTE
+
+__Overview__: Version control is a great method for documenting your progress while avoiding mistakes and backing up your work.
+We'll focus mainly on `git`, and you'll learn the essentials for maintaining code repositories, tracking changes in papers, and more all while avoiding the dense and scary stuff.
+
+__Speaker:__ Greg Holdman
+
+[View the materials for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/tree/master/Meetings/Meeting_9)
 
 ---
 
