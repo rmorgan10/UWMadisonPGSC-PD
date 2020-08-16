@@ -18,6 +18,7 @@ Afterward, we will have a physics-specific discussion with professors in the dep
 
 __Speakers:__ TBD (from the UW Writing Center), TBD, TBD, TBD
 
+---
 
 ### Session 11: LinkedIn
 
