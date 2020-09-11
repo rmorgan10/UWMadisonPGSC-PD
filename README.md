@@ -8,15 +8,16 @@ Meeting Times: Every other Tuesday, 2:30-3:30
 
 ## Upcoming Events
 
-### Session 10: Grants and Proposals
+### Session 10: Fellowship Proposals: A Faculty and Writing Center Panel
 
-__When and Where:__ September 22, 2020; 2:30pm-3:30pm; Zoom
+__When and Where:__ September 22, 2020; 2:30pm-3:30pm; https://us02web.zoom.us/j/82686938703
 
-__Overview:__ Tips and tricks for writing successful grants and proposals.
+__Overview:__ Tips and tricks for writing successful fellowship proposals.
 The Writing Center will give a short presentation on the components of and strategies for grant and proposal writing.
-Afterward, we will have a physics-specific discussion with professors in the departement to tailor the tips to the specific funding agencies you may deal with.
+Examples of successful graduate research proposals will be analyzed and discussed.
+Afterward, there will be a physics-specific discussion with professors in the departement to tailor the tips to the specific funding agencies you may deal with.
 
-__Speakers:__ TBD (from the UW Writing Center), TBD, TBD, TBD
+__Speakers:__ Angela Zito (from the UW Writing Center), Justin Vandenbroucke, Victor Brar, Uwe Bergmann
 
 ---
 
