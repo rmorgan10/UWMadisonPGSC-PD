@@ -15,7 +15,7 @@ __When and Where:__ September 22, 2020; 2:30pm-3:30pm; https://us02web.zoom.us/j
 __Overview:__ Tips and tricks for writing successful fellowship proposals.
 The Writing Center will give a short presentation on the components of and strategies for grant and proposal writing.
 Examples of successful graduate research proposals will be analyzed and discussed.
-Afterward, there will be a physics-specific discussion with professors in the departement to tailor the tips to the specific funding agencies you may deal with.
+Afterward, there will be a physics-specific discussion with professors in the department to tailor the tips to the specific funding agencies you may deal with.
 
 __Speakers:__ Angela Zito (from the UW Writing Center), Justin Vandenbroucke, Victor Brar, Uwe Bergmann
 
