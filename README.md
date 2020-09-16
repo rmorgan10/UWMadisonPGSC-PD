@@ -25,11 +25,12 @@ __Speakers:__ Angela Zito (from the UW Writing Center), Justin Vandenbroucke, Vi
 
 __When and Where:__ October 6, 2020; 2:30pm-3:30pm; Zoom
 
-__Overview:__ Learn how to get started with LinkedIn and how to make your page stand out.
-You'll also learn how to use networking and job search features of LinkedIn.
-This seminar will be brought to you by the Career Services Department.
+__Overview:__ Having an outstanding LinkedIn profile may be just the thing that gets you the job.  
+Learn the latest tips and tricks to take your job search presence on LinkedIn to the next level.  
+Join us for an interactive workshop and plan to spend some time polishing your LinkedIn profile.  
+When your dream job comes up, you will be all set and ready to go! 
 
-__Speaker:__ Michelle Holland
+__Speaker:__ Michelle Holland, Graduate Program Coordinator
 
 ---
 
