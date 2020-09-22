@@ -8,6 +8,12 @@ _Requirements_: US Citizen, 1st or 2nd year in program
 <br>
 _Deadline_: November 3, 2020
 
+**Graduate Women in Science Fellowship** [(link)](https://www.gwis.org/page/fellowship_program)
+<br>
+_Requirements_: Open to women
+<br>
+_Deadline_: January 12, 2021
+
 **National Defense Science & Engineering Graduate Fellowship** [(link)](https://ndseg.sysplus.com/)
 <br>
 _Requirements_: US Citizen, 1st or 2nd year in program
