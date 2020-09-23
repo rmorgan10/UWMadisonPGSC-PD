@@ -29,7 +29,7 @@
 **Answers**:
 
 - Don't be shy, ask for feedback from your peers and advisor.
-- A useful article: [https://www-nature-com.stanford.idm.oclc.org/articles/d41586-019-02918-5](https://www-nature-com.stanford.idm.oclc.org/articles/d41586-019-02918-5)
+- A useful article: [https://www.nature.com/articles/d41586-019-02918-5](https://www.nature.com/articles/d41586-019-02918-5)
 - Know your audience (applies to any type of communication, your audience should guide your level of technicality)
 - Writing proposals is a central part of the academic process; it forces you to plan out your research and think about how you will achieve your goals
 - Even if they are rejected, it is still valueable to go through the steps of putting it together. Don't ever give up!
