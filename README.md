@@ -8,22 +8,9 @@ Meeting Times: Every other Tuesday, 2:30-3:30
 
 ## Upcoming Events
 
-### Session 10: Fellowship Proposals: A Faculty and Writing Center Panel
-
-__When and Where:__ September 22, 2020; 2:30pm-3:30pm; https://us02web.zoom.us/j/82686938703
-
-__Overview:__ Tips and tricks for writing successful fellowship proposals.
-The Writing Center will give a short presentation on the components of and strategies for grant and proposal writing.
-Examples of successful graduate research proposals will be analyzed and discussed.
-Afterward, there will be a physics-specific discussion with professors in the department to tailor the tips to the specific funding agencies you may deal with.
-
-__Speakers:__ Angela Zito (from the UW Writing Center), Justin Vandenbroucke, Victor Brar, Uwe Bergmann
-
----
-
 ### Session 11: LinkedIn
 
-__When and Where:__ October 6, 2020; 2:30pm-3:30pm; Zoom
+__When and Where:__ October 6, 2020; 2:30pm-3:30pm; https://uwmadison.zoom.us/j/91878538384
 
 __Overview:__ Having an outstanding LinkedIn profile may be just the thing that gets you the job.  
 Learn the latest tips and tricks to take your job search presence on LinkedIn to the next level.  
@@ -206,4 +193,15 @@ __Speaker:__ Greg Holdman
 
 ---
 
+### Session 10: Fellowship Proposals: A Faculty and Writing Center Panel
 
+__When and Where:__ September 22, 2020; 2:30pm-3:30pm; https://us02web.zoom.us/j/82686938703
+
+__Overview:__ Tips and tricks for writing successful fellowship proposals.
+The Writing Center will give a short presentation on the components of and strategies for grant and proposal writing.
+Examples of successful graduate research proposals will be analyzed and discussed.
+Afterward, there will be a physics-specific discussion with professors in the department to tailor the tips to the specific funding agencies you may deal with.
+
+__Speakers:__ Angela Zito (from the UW Writing Center), Justin Vandenbroucke, Victor Brar, Uwe Bergmann
+
+---
