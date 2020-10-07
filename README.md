@@ -2,28 +2,13 @@
 
 Meeting Times: Every other Tuesday, 2:30-3:30
 
-[View an overview of the seminar series and list of topics here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/blob/master/Meetings/Meeting_1/Overview.pdf) 
-
 ---
 
 ## Upcoming Events
 
-### Session 11: LinkedIn
-
-__When and Where:__ October 6, 2020; 2:30pm-3:30pm; https://uwmadison.zoom.us/j/91878538384
-
-__Overview:__ Having an outstanding LinkedIn profile may be just the thing that gets you the job.  
-Learn the latest tips and tricks to take your job search presence on LinkedIn to the next level.  
-Join us for an interactive workshop and plan to spend some time polishing your LinkedIn profile.  
-When your dream job comes up, you will be all set and ready to go! 
-
-__Speaker:__ Michelle Holland, Graduate Program Coordinator
-
----
-
 ### Session 12: Tell Me About Your Research!
 
-__When and Where:__ October 20, 2020; 2:30pm-3:30pm; Zoom
+__When and Where:__ October 20, 2020; 2:30pm-3:30pm; https://uwmadison.zoom.us/j/95360759836
 
 __Overview:__ We'll discuss the most successful ways of communicating your research to non-expert and non-science audiences.
 Learn tips and tricks for presenting what you do to anyone in the world.
@@ -202,6 +187,24 @@ The Writing Center will give a short presentation on the components of and strat
 Examples of successful graduate research proposals will be analyzed and discussed.
 Afterward, there will be a physics-specific discussion with professors in the department to tailor the tips to the specific funding agencies you may deal with.
 
-__Speakers:__ Angela Zito (from the UW Writing Center), Justin Vandenbroucke, Victor Brar, Uwe Bergmann
+__Speakers:__ Angela Zito (from the UW Writing Center), Justin Vandenbroucke, Uwe Bergmann
+
+[View the materials for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/tree/master/Meetings/Meeting_10)
 
 ---
+
+### Session 11: LinkedIn
+
+__When and Where:__ October 6, 2020; 2:30pm-3:30pm; https://uwmadison.zoom.us/j/91878538384
+
+__Overview:__ Having an outstanding LinkedIn profile may be just the thing that gets you the job.  
+Learn the latest tips and tricks to take your job search presence on LinkedIn to the next level.  
+Join us for an interactive workshop and plan to spend some time polishing your LinkedIn profile.  
+When your dream job comes up, you will be all set and ready to go! 
+
+__Speaker:__ Michelle Holland, Graduate Program Coordinator
+
+[View the materials for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/tree/master/Meetings/Meeting_11)
+
+---
+
