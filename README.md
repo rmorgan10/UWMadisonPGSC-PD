@@ -10,7 +10,9 @@ Meeting Times: Every other Tuesday, 2:30-3:30
 
 __When and Where:__ October 20, 2020; 2:30pm-3:30pm; https://uwmadison.zoom.us/j/95360759836
 
-__Overview:__ We'll discuss the most successful ways of communicating your research to non-expert and non-science audiences.
+__Overview:__ Effectively communicating and publicizing your work is essential for advancing your career. 
+In this professional development seminar, two science communication professionals from the Physics Department will join us to share their experiences. 
+We'll discuss the most successful ways of communicating your research to non-expert and non-science audiences.
 Learn tips and tricks for presenting what you do to anyone in the world.
 
 __Speakers:__ Sarah Perdue and Madeleine O'Keefe
