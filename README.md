@@ -6,27 +6,17 @@ Meeting Times: Every other Tuesday, 2:30-3:30
 
 ## Upcoming Events
 
-### Session 12: Tell Me About Your Research!
-
-__When and Where:__ October 20, 2020; 2:30pm-3:30pm; https://uwmadison.zoom.us/j/95360759836
-
-__Overview:__ Effectively communicating and publicizing your work is essential for advancing your career. 
-In this professional development seminar, two science communication professionals from the Physics Department will join us to share their experiences. 
-We'll discuss the most successful ways of communicating your research to non-expert and non-science audiences.
-Learn tips and tricks for presenting what you do to anyone in the world.
-
-__Speakers:__ Sarah Perdue and Madeleine O'Keefe
-
-___
-
 ### Session 13: How to Go from Physics to Industry
 
-__When and Where:__ November 19, 2020; 2:30pm-3:30pm; Zoom
+__When and Where:__ November 19, 2020; 2:30pm-3:30pm; https://uwmadison.zoom.us/j/93446409919
 
 __Overview:__ A panel of recent UW-Madison Physics alumni will answer all your questions about deciding if industry is the right path for you.
 We'll also discuss tips and tricks for landing an industry job.
+Bring your questions and the panel will share their experiences!
 
-__Speakers:__ Adam Frees, Matthew Beck
+If you would like to submit an anonymous question for the panel to answer, you can use this Google Form: https://forms.gle/zW8qs1ssMSeJAnhS6
+
+__Speakers:__ Adam Frees, Matthew Beck, Jonathan Koliner, Dan Minette, Chris Greiveldinger
 
 ___
 
@@ -210,3 +200,16 @@ __Speaker:__ Michelle Holland, Graduate Program Coordinator
 
 ---
 
+### Session 12: Tell Me About Your Research!
+
+__When and Where:__ October 20, 2020; 2:30pm-3:30pm; https://uwmadison.zoom.us/j/95360759836
+
+__Overview:__ Effectively communicating and publicizing your work is essential for advancing your career. 
+In this professional development seminar, two science communication professionals from the Physics Department will join us to share their experiences. 
+We'll discuss the most successful ways of communicating your research to non-expert and non-science audiences.
+Learn tips and tricks for presenting what you do to anyone in the world.
+
+__Speakers:__ Sarah Perdue and Madeleine O'Keefe
+
+[View the materials for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/tree/master/Meetings/Meeting_12)
+___
