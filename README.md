@@ -8,7 +8,7 @@ Meeting Times: Every other Tuesday, 2:30-3:30
 
 ### Session 13: How to Go from Physics to Industry
 
-__When and Where:__ November 19, 2020; 2:30pm-3:30pm; https://uwmadison.zoom.us/j/93446409919
+__When and Where:__ November 17, 2020; 2:30pm-3:30pm; https://uwmadison.zoom.us/j/93446409919
 
 __Overview:__ A panel of recent UW-Madison Physics alumni will answer all your questions about deciding if industry is the right path for you.
 We'll also discuss tips and tricks for landing an industry job.
