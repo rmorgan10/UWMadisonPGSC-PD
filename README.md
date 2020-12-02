@@ -9,7 +9,7 @@ Meeting Times: Every other Tuesday, 2:30-3:30
 
 ### Session 14: Okay, Google: Help Me with My Resume
 
-__When and Where:__ December 8, 2020; 2:30pm-3:30pm; Zoom
+__When and Where:__ December 8, 2020; 2:30pm-3:30pm; https://uwmadison.zoom.us/j/97345770481
 
 __Overview:__ Crafting an attractive resume is a skill that takes practice to develop, but the process becomes much easier once you know what search committees are looking for. 
 Sharing his experience screening Google applicants, Homer Wolfmeister will overview the components of a strong resume for typical industry careers. 
