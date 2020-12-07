@@ -213,4 +213,6 @@ If you would like to submit an anonymous question for the panel to answer, you c
 
 __Speakers:__ Adam Frees, Matthew Beck, Jonathan Koliner, Dan Minette, Chris Greiveldinger
 
+[View the materials for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/tree/master/Meetings/Meeting_13)
+
 ___
