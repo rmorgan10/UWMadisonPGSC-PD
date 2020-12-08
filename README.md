@@ -6,30 +6,8 @@ Meeting Times: Every other Tuesday, 2:30-3:30
 
 ## Upcoming Events
 
+We're done for the year, check back in the spring!
 
-### Session 14: Okay, Google: Help Me with My Resume
-
-__When and Where:__ December 8, 2020; 2:30pm-3:30pm; https://uwmadison.zoom.us/j/97345770481
-
-__Overview:__ Crafting an attractive resume is a skill that takes practice to develop, but the process becomes much easier once you know what search committees are looking for. 
-Sharing his experience screening Google applicants, Homer Wolfmeister will overview the components of a strong resume for typical industry careers. 
-He will also lead a resume review excercise where you will become the reviewer, and learn to craft the perfect resume by critically analyzing sample resumes.
-
-__Speaker:__ Homer Wolfmeister
-
----
-
-### Backup: Professional Websites REMIX
-
-__When and Where:__ TBD
-
-__Overview:__ Professional websites are a great way to promote yourself and your work.
-We will go through a step-by-step walkthrough of how to create your own free, easy to maintain website to make your research available to the world.
-Templates will be provided and there will be time to hack on your website at the end of the seminar.
-
-__Prerequisites:__ Make an account on [GitHub](https://github.com/) before the session. You will get the most out of the seminar if you bring a laptop.
-
---- 
 
 ## Previous Events
 
@@ -216,3 +194,29 @@ __Speakers:__ Adam Frees, Matthew Beck, Jonathan Koliner, Dan Minette, Chris Gre
 [View the materials for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/tree/master/Meetings/Meeting_13)
 
 ___
+
+### Session 14: Okay, Google: Help Me with My Resume
+
+__When and Where:__ December 8, 2020; 2:30pm-3:30pm; https://uwmadison.zoom.us/j/97345770481
+
+__Overview:__ Crafting an attractive resume is a skill that takes practice to develop, but the process becomes much easier once you know what search committees are looking for. 
+Sharing his experience screening Google applicants, Homer Wolfmeister will overview the components of a strong resume for typical industry careers. 
+He will also lead a resume review excercise where you will become the reviewer, and learn to craft the perfect resume by critically analyzing sample resumes.
+
+__Speaker:__ Homer Wolfmeister
+
+[View the materials for this session here!](https://github.com/rmorgan10/UWMadisonPGSC-PD/tree/master/Meetings/Meeting_14)
+
+---
+
+### Backup: Professional Websites REMIX
+
+__When and Where:__ TBD
+
+__Overview:__ Professional websites are a great way to promote yourself and your work.
+We will go through a step-by-step walkthrough of how to create your own free, easy to maintain website to make your research available to the world.
+Templates will be provided and there will be time to hack on your website at the end of the seminar.
+
+__Prerequisites:__ Make an account on [GitHub](https://github.com/) before the session. You will get the most out of the seminar if you bring a laptop.
+
+--- 
